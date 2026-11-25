@@ -564,7 +564,7 @@ function cutNow() {
     <header class="topbar">
       <div><span class="eyebrow">BRADY / WEB BLUETOOTH</span><h1>M211 Label Studio</h1></div>
       <div class="topbar-controls">
-        <a class="home-button" href="https://chpaxson.github.io/tools">Home</a>
+        <a class="home-button" href="https://chpaxson.com/tools">Home</a>
         <label>Units<select v-model="distanceUnit" aria-label="Measurement units">
           <option value="mm">mm</option><option value="in">inch</option><option value="px">pixel</option>
         </select></label>

@@ -1,11 +1,11 @@
 # Brady M211 Label Studio
 
 A Vue 3 / TypeScript Web Bluetooth label designer, hosted at
-https://chpaxson.github.io/brady-m211-studio/. Run it locally with `npm install`
+https://chpaxson.com/brady-m211-studio/. Run it locally with `npm install`
 and `npm run dev`; `npm test` runs the tests (Node.js 22.14 or later) and
 `npm run build` type-checks and builds to `dist/`. Deployment to GitHub Pages runs
 from `.github/workflows/pages.yml`; set **Settings → Pages → Source** to
-**GitHub Actions**. The **Home** link returns to https://chpaxson.github.io/tools.
+**GitHub Actions**. The **Home** link returns to https://chpaxson.com/tools.
 
 ## Usage
 
